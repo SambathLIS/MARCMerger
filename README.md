@@ -27,21 +27,7 @@ Features
 
 ---
 
-Installation
-
-1. Clone the repository:
-
-git clone https://github.com/yourusername/MARC-Merger.git
-cd MARC-Merger
-
-2. Create a virtual environment (optional but recommended):
-
-python -m venv venv
-# Activate the environment:
-source venv/bin/activate    # Linux/Mac
-venv\Scripts\activate       # Windows
-
-3. Install dependencies:
+Install dependencies:
 
 pip install -r requirements.txt
 
